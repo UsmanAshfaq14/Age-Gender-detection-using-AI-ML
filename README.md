@@ -1,4 +1,3 @@
-```markdown
 # Age-Gender-detection-using-AI-ML
 
 ## Introduction
@@ -160,8 +159,11 @@ Try out the gender and age classifier on your own images using the command promp
 ```bash
 python project_ideas.py --image path/to/image.jpg
 ```
+![image](https://github.com/user-attachments/assets/3635f1c7-5e18-4fee-b67c-da0e8435550b)
+
 
 **Output:**
+![image](https://github.com/user-attachments/assets/5aa58f8a-ac36-496f-b4e6-0b3a3d7b15ba)
 
 ```
 python open source project
@@ -172,8 +174,10 @@ python open source project
 ```bash
 python projects_in_python.py --image path/to/image.jpg
 ```
+![image](https://github.com/user-attachments/assets/29136137-dbfa-4eeb-9d20-f42b93fff46f)
 
 **Output:**
+![image](https://github.com/user-attachments/assets/12286e0e-e21b-4d5c-8a3d-0bd0f9f1042f)
 
 ```
 python projects for practice
@@ -184,8 +188,10 @@ python projects for practice
 ```bash
 python open_source_project.py --image path/to/image.jpg
 ```
+![image](https://github.com/user-attachments/assets/91b8f777-8e4c-43f1-88e3-ceb03d084b50)
 
 **Output:**
+![image](https://github.com/user-attachments/assets/2e70f37a-db9f-4142-b271-383371f4436a)
 
 ```
 Python project ideas
@@ -196,8 +202,10 @@ Python project ideas
 ```bash
 python projects_for_practice.py --image path/to/image.jpg
 ```
+![image](https://github.com/user-attachments/assets/aaec3753-f60c-4594-b028-3682558bfe85)
 
 **Output:**
+![image](https://github.com/user-attachments/assets/31f4bf0e-e834-44e4-be71-b97d52c1ea90)
 
 ```
 interesting python project example
@@ -208,26 +216,17 @@ interesting python project example
 ```bash
 python open_source_project_example.py --image path/to/image.jpg
 ```
-![image](https://github.com/user-attachments/assets/5e9d33a5-5fbe-4361-9b55-c1547613adb9)
+![image](https://github.com/user-attachments/assets/97862757-bf3a-4e97-b253-efb9ac7661fc)
+
 
 
 **Output:**
+![image](https://github.com/user-attachments/assets/6f299d08-0518-43f5-ab30-d8e04d3172d9)
 
 ```
 learning python projects
 ```
 
-### Example 6
-
-```bash
-python project_age_detection.py --image path/to/image.jpg
-```
-
-**Output:**
-
-```
-python project example - gender detection
-```
 
 ## Summary
 
